@@ -1,0 +1,41 @@
+# formulariogemaadamepr-samsung
+
+La alumna deberá crear un formulario para crear una cuenta ficticia de acceso a una página web.
+
+El aspecto deberá ser como el que sigue:
+
+
+Se deberán tener en cuenta las siguientes validaciones:
+
+-        El alumno deberá crear los estilos necesarios para los casos en los que las validaciones sean correctas (color verde) y para los casos en las que no lo sean (color rojo) de acuerdo con los siguientes ejemplos.
+
+-        Todos los campos deberán ser obligatorios o de lo contrario tendremos un error del siguiente tipo:
+ El campo Nombre deberá ser de tipo Texto, cualquier carácter numérico no será admitido.
+
+-        El campo Email deberá ser de tipo “email”. Además, el alumno deberá investigar en internet cómo hacer una validación de correo electrónico mediante expresiones regulares. De forma que si el formato del email no es válido salga un mensaje con el correspondiente fallo:
+
+-        El campo Clave deberá tener al menos 8 caracteres.
+-        El valor introducido en los campos Clave y Confirme su clave deberán ser idénticos o se obtendrá un error:
+
+Finalmente, si todos los campos están correctamente validados, al pulsar sobre el botón ENVIAR deberá salir un alert por pantalla informando de que la inscripción ha sido correcta.
+
+El formato en el que se crearán los ficheros debe ser el siguiente:
+EL script HTML se creará en un archivo al que llamaremos index.html.
+
+El CSS se creará en un archivo style.css
+
+El código javascript se creará en un archivo index.js
+
+Se creará un directorio llamado images en el que se tendrán los dos iconos correspondientes a las validaciones positivas o negativas.
+
+Descárgate las imágenes de error y success AQUÍ
+
+Modo de entrega:
+
+Se subirán todos los archivos y directorios mencionados a un repositorio Github (hay una guía de cómo crear el repositorio en Github en el apartado del curso "Materiales Complementarios"). A la plataforma de Bejob sólo se subirá un archivo .doc con la dirección de dicho repositorio.
+
+Recordad hacer el repositorio público para que el tutor pueda tener acceso al mismo y poder descargarlo y calificarlo.
+
+IMPORTANTE: No se admitirá ningún otro formato de entrega.
+
+ 
